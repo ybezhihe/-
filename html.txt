@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Личная страница Нестеровой Дарьи </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="description"  content="Личная страница и контакты">
+    <!-- Bootstrap Core CSS-->
+    <link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" media="screen">
+  </head>
+
+  <body>
+      <nav id="mainNav" class="navbar navbar-default navbar-fixed-top navbar-custom">
+           <div class="container">
+              <div class="navbar-header">
+                <a href="htts://ling.hse.ru/" class="navbar-brand"> Школа лингвистики НИУ ВШЭ</a>
+               </div>
+               <nav class="collapse navbar-collapse" id="bs-navbar">
+                    <ul class="nav navbar-nav navbar-right">
+                      <li> <a href="https://vk.com/hse_fipl2017" >Страница курса в ВК</a> </li>
+                      <li> Страницы группы нет </li>
+                    </ul>
+               </nav>
+            </div>
+       </nav>
+       <haeder  style="background-color: blue; padding-top:75px;"> 
+          <div class="container">
+             <div class="row"> 
+                 <div class="col-md-4.2">
+                 <br><br>
+                   <h2> Нестерова Дарья </h2>
+                   <br> <hr>
+                  <p> <i> Человек-косяк</i> </p>
+          </div>
+                  <div class="col-md-4.1">
+             <img scr="" alt="" style="height:320px; width:480px ; margin:20px 20px 40px 20px;">
+              </div>
+	            </div>
+			</div>
+		</header>
+		<section id="portfolio">
+			<div class="container">
+				<div class="col-md-2.5">
+					<article>
+						<h3>Место учебы</h3>
+						<p>НИУ ВШЭ <br> Гуманитарный факультет <br> Школа лингвистики</p>
+					</article>
+					<article>
+						<h3>Школа</h3>
+						<p>МАОУ лицей №2 г.Южно-Сахалинска</p>
+					</article>
+				</div>
+				<div class="col-md-6">
+					<article>
+						<h3> немного о себе</h3>
+						<p> родилась в городе Южно-Сахалинске, училась в физико-математическом лицее. пол жизни бегала на лыжах, но особых успехоа не достигла- бросила в 9 классе в предверии экзаменов. закончила музыкальную щколу по классу Фортепьяно, без особых успехов, но хорошо хоть, что закончила. сносно играю на гитаре. рисовать не умею от слова вообще. читаю много, но больше всё какую-то муть. люблю гулять ножками, но только если гуляю к намеченной цели, иначе быстро надоедает... я человек-косяк. из-за некоторого дефекта зрения часто не успеваю сконцентрироваться на быстро приближающихся объектах и переодически целуюсь с дверными косяками. считаю, что все люди красивые, особенно когда я без очков. </p> 
+                                         </article>
+				</div>
+				<div class="col-md-2.5">
+					<h3>Мои контакты в социальных сетях</h3>
+					<ul>
+						<li><a href="https://vk.com/id145735938"> VK  </a></li>
+						<li><a href="http://zh.ink361.com/app/users/ig-1620226382/matrosvilson/photos">Instagram   </a></li>
+					</ul>
+				</div>
+			</div>
+		</section>
+		<footer class="bs-docs-footer"> 
+			<div class="container"> 
+				<p style="text-align:right; ">&copy; Д.Нестерова, 2017</p> 
+			</div>
+		</footer>
+
+
+  </body>
+
+
+</html>
